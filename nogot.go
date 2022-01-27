@@ -2,20 +2,18 @@ package myquote
 
 import (
 	"fmt"
-
 	"rsc.io/quote"
 )
 
-func Glassquote() {
+func Glassquote(){
 	fmt.Println(quote.Glass())
 }
-func Helloquote() {
+func Helloquote(){
 	fmt.Println(quote.Hello())
 }
-func Goquote() {
+func Goquote(){
 	fmt.Println(quote.Go())
 }
-func Optquote() {
-	fmt.Println(quote.Opt())
+func Optquote(){
+	fmt.Println(quote.Go())
 }
-//Halla
