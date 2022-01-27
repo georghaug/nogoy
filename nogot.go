@@ -18,3 +18,4 @@ func Goquote() {
 func Optquote() {
 	fmt.Println(quote.Opt())
 }
+//Halla
